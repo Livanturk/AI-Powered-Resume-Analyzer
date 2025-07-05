@@ -38,5 +38,5 @@ Upload your resume, paste a job description, and receive instant, GPT-style feed
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/resume-analyzer.git
+git clone https://github.com/YOUR_USERNAME/AI-Powered-Resume-Analyzer.git
 cd resume-analyzer
