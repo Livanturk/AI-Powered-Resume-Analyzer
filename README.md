@@ -1,7 +1,7 @@
 # 🧠 AI-Powered Resume Analyzer
 
 An intelligent, open-source web app that analyzes your resume using Groq's blazing-fast LLaMA 3 API.  
-Upload your resume, paste a job description, and receive instant, GPT-style feedback — strengths, gaps, and improvement suggestions.
+Upload your resume, paste a job description, and receive instant, GPT-style feedback (strengths, gaps, and improvement suggestions).
 
 <p align="center">
   <img src="https://img.shields.io/badge/built_with-Streamlit-orange?style=flat-square"/>
